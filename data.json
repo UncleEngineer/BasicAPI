@@ -7,8 +7,8 @@
         
     },
     {
-        "title":"Flutter คือ?",
-        "subtitle":"Tools สำหรับออกแบบ UI ของ Google",
+        "title":"Flutter 2 คือ?",
+        "subtitle":"Tools สำหรับออกแบบ UI ของ Google ",
         "image_url":"https://raw.githubusercontent.com/UncleEngineer/BasicAPI/main/mobileapp.jpg",
         "detail":"Flutter 2 สร้างโดย Google บริษัทเทคโนโลยีอันดับต้นๆของโลก ที่มาพร้อมกับความสวยงาม อลังการ พาไปวัดไปวาแบบไม่ต้องอายใคร 55 อีกทั้งสามารถเขียนโปรแกรมครั้งเดียวด้วยภาษา Dart ที่ถูกออกแบบมาให้เขียนง่าย เข้าใจได้ไม่ยาก เขียนแค่ครั้งเดียว ส่งไปใช้งานได้ทุกแพลตฟอร์ม ไม่ว่าจะเป็น Android, iOS, Web Application, Windows, Linux, MacOS เรียกได้ว่าเขียนครั้งเดียวจบ ส่งไปใช้งานได้เลย"
     },
